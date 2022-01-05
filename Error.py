@@ -19,3 +19,10 @@ int("안녕하세요")
 float("반가워요")
 int("52.273")
 
+# IndentationError : If구문과 같이 들여쓰기가 필요한 곳에서 사용하지 않은 경우 발생
+if zero == 0:
+
+else:
+    
+
+# raise NotImplementError : 아직 구현하지 않은 부분이에요!라는 오류
